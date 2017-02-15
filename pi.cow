@@ -1,0 +1,17 @@
+##
+## Beavis, with Zen philosophy removed.
+##
+$the_cow = <<EOC;
+ $thoughts
+  $thoughts
+   .~~.   .~~.
+  '. \\ ' ' / .'
+   .~ .~~~..~.
+  : .~.'~'.~. :
+ ~ (   ) (   ) ~
+( : '~'.~.'~' : )
+ ~ .~ (   ) ~. ~
+  (  : '~' :  ) 
+   '~ .~~~. ~'
+       '~'
+EOC
